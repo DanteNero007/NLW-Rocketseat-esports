@@ -16,7 +16,7 @@ Projeto Criado na semana da NLW da Rocketseat inspirado no publico Gamer
 -prisma(lidar com banco de dados sqlite, prisma studio) <br>
 
 ## Ferramentas 
--typescript(tipos bem definidos) <br>
+-typescript(tipos bem definidos  definido <br>>
 -hoppscotch(testar requisiçoes) <br>
 
 Obs: semana de muito aprendizado nas duas frentes
