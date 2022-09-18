@@ -15,7 +15,7 @@ Projeto Criado na semana da NLW da Rocketseat inspirado no publico Gamer
 -express(servidor, rotas) <br>
 -prisma(lidar com banco de dados sqlite, prisma studio) <br>
 
-##ferramentas 
+## Ferramentas 
 -typescript(tipos bem definidos) <br>
 -hoppscotch(testar requisiçoes) <br>
 
